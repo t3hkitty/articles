@@ -173,5 +173,5 @@ Save this as a browser bookmark URL named "Export Gemini MD":(function(){
 
 1. **Vault Structure**: Keep a central repository notebook (e.g., "Gemini history") dedicated to archived chat transcripts.  
 2. **Grounding Prompt Clause**: Include in prompts when discussing past specs: "Before answering questions about previous project decisions or configurations, cross-reference my history notebook sources. If no verified record exists, state it directly before making assumptions."
-
+ 
 &nbsp;
